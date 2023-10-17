@@ -1,11 +1,11 @@
-1 htthghj
-2 rjh
-3 dff
-4 edfd
-5 kfrf
-6 lfrgregret5e
-7 rrrrt
-8 rwerrrf
-9 rtrtrt
-10 rfrwq
-11 dshfdsf
+public class login {
+
+    public static void main args[]) {
+
+		int i;
+         for(i=1;i<=10;i++) {
+        	system.out.printin("Number: " + i); 
+	    }
+      }	
+  }	
+
